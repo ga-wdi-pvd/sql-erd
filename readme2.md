@@ -11,18 +11,18 @@
 
 Let's talk relationships
 
-No, not your Facebook status.
-Let's think about ownership or... sharing.
-People can have one thing... such as a home, or a car.
-People can also have many things... such as pets, friends, or books.
-Things can be owned by people as well, right?
-Let's remove the word 'owned' and now think of it as a relationship.
+-   No, not your Facebook status.
+-   Let's think about ownership or... sharing.
+-   People can have one thing... such as a home, or a car.
+-   People can also have many things... such as pets, friends,  or books.
+-   Things can be owned by people as well, right?
+-   Let's remove the word 'owned' and now think of it as a relationship.
 
 Relationship Statuses
 
-One to One
-One to Many
-Many to Many
+-   One to One
+-   One to Many
+-   Many to Many
 
 Can you think of some examples for each type?
 
@@ -65,10 +65,6 @@ a library.
     -   One-to-one: A User has one Profile
     -   Usually denotes that one entity should be an attribute of the other
     -   Usually separated for physical space considerations
-
-Here's a diagram for an orchard
-
-![erd2](https://ga-chicago.gitbooks.io/wdi-dragons/content/05_fullstack_sinatra/d01_erd_relationships.html)
 
 
 #### ERD Lab
